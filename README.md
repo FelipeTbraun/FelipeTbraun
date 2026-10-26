@@ -59,11 +59,7 @@ Estudante de **Desenvolvimento de Software Multiplataforma na Fatec Indaiatuba**
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTbraun&layout=compact&theme=tokyonight&hide=html,css"/>
 </div>
 
-<br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Streak Stats" />
-</div>
 
 ---
 
