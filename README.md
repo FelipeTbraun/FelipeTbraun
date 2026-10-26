@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Felipe Braun 👋</h1>
-  <p><strong>Desenvolvedor Backend | PHP & Laravel Specialist | Infra & Linux</strong></p>
+  <p><strong>Desenvolvedor Full Stack | Infra & Redes| Windows & Linux</strong></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tavares-braun-840129299/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tbraunfelipe@gmail.com)
