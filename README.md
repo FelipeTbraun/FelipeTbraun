@@ -2,7 +2,7 @@
   <h1>Olá, eu sou o Felipe Braun 👋</h1>
   <p><strong>Desenvolvedor Backend | PHP & Laravel Specialist | Infra & Linux</strong></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/felipe-tavares-braun-840129299/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/felipe-tavares-braun-840129299/])
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tbraunfelipe@gmail.com)
 <!--  [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://SEU_PORTFOLIO_OU_SITE)-->
 </div>
@@ -41,19 +41,3 @@ Com experiência prática no ecossistema de **Suporte em T.I. e Infraestrutura**
 
 ---
 
-## 📌 Projetos em Destaque
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Sistema / API em Laravel</h3>
-      <p>Desenvolvimento de sistema backend focado em rotinas administrativas/acadêmicas.</p>
-      <ul>
-        <li>CRUD completo e validações robustas</li>
-        <li>Autenticação de usuários e permissões</li>
-        <li>Integração com MySQL</li>
-      </ul>
-      <a href="https://github.com/FelipeTbraun"><strong>Link do meu github »</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐧 Scripts de Automação & Admin Linux
