@@ -62,7 +62,7 @@ Estudante de **Desenvolvimento de Software Multiplataforma na Fatec Indaiatuba**
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeTbraunonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
