@@ -55,14 +55,14 @@ Estudante de **Desenvolvimento de Software Multiplataforma na Fatec Indaiatuba**
 ## 📊 Estatísticas e Atividade no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeTbraun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTbraun&layout=compact&theme=tokyonight&hide=html,css"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeTbraunonight" alt="Streak Stats" />
 </div>
 
 ---
