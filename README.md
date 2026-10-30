@@ -15,7 +15,7 @@
 
 Estudante de **Desenvolvimento de Software Multiplataforma na Fatec Indaiatuba** e com formação técnica em TI pela FIEC. Possuo vivência prática sólida em suporte técnico de nível superior (UniMAX), administração de infraestrutura, redes e instrução de informática. Utilizo essa bagagem analítica aliada ao **desenvolvimento de Agentes de IA e automação de processos** para construir soluções **Backend resilientes, eficientes e escaláveis**.
 
-- 🔭 **Foco Atual:** Desenvolvimento de APIs RESTful e aplicações robustas com **PHP e Laravel**, além de ampliar conhecimentos no ecossistema multiplataforma (TypeScript, Java/Spring Boot, React).
+- 🔭 **Foco Atual:** Desenvolvimento de APIs RESTful e aplicações robustas com **PHP e Laravel**, além de ampliar conhecimentos no ecossistema multiplataforma (TypeScript, Java/Spring Boot, React) e estudando atualmente agentes de IA e LLMs.
 - 🤖 **Agentes de IA & Automação:** Criação de fluxos inteligentes, integração de LLMs/APIs de IA e automação de rotinas de backend para otimização de sistemas.
 - 🛠️ **Diferencial Competitivo:** Visão sistêmica unindo backend, redes, ambientes Linux, modelagem de dados e engenharia de soluções automatizadas com IA.
 - 🎓 **Formação:** Tecnólogo em Desenvolvimento de Software Multiplataforma (Fatec) | Técnico em T.I. (FIEC).
